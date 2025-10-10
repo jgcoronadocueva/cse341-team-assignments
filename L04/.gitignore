@@ -8,7 +8,7 @@ build
 pnpm-lock.yaml
 
 # Environment variables
-.env*
+.env
 
 # OS and editor files
 .DS_Store
